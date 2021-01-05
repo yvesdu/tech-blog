@@ -4,6 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Street smart and I am book smart.
+"This was meant to be a haiku, huh
+But my story's too wide to fit inside the line" - Shawn Carter
 
 This is Yves.
