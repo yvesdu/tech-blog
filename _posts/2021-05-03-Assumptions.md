@@ -10,14 +10,14 @@ As I learn more about the world. I realize most of the functions/learning are wa
 
 Two ideas I would like to note down about some of my re-learning. 
 
-1. Law of large numbers 
+## Law of large numbers 
 
 In a simplied form, if you have some observations X1,X2,X3,......,X(n), assume they come from the same distribution and are independent(see prior post)
 
 the idea of the law of large numbers, is that as we observe more "things" ---> their average become more stable than the components("things"). example: like a coin toss, we know if you do many tosses (more than a 1000), 50% will be head, and 50% will be tails. 
 
 
-2. The central limit theorem 
+## The central limit theorem 
 
 In a simplied form, if you have some observations X1,X2,X3,......,X(n), the sum of these components("things") as (n) becomes large, the distribution tends to "look" like a gaussian(normal). 
 
