@@ -25,5 +25,5 @@ In a simplied form, if you have some observations X1,X2,X3,......,X(n), the sum 
 There are implications to the two ideas above. Alot of the statistics/ ways we map data to our assumptions, assumes a world where the law of large numbers / central limit theorem is in play. However sometimes it's not always the case, and a lot of important events in life are hard to reason about from those two ideas. But they are very important. 
 
 
-Think twice ---- Study the distribution of outcomes for the system you are dealing with, it helps with mapping data to "our" assumptions of the world to better make decisions. 
+Think twice ---- Study the distribution of outcomes for the system you are dealing with, it helps with mapping data to "our" assumptions to make better decisions. 
 
