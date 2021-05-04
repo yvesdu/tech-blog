@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://yvesdu.github.io/tech-blog/jupyter/2020/02/20/test.html</loc>
-<lastmod>2020-02-20T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>https://yvesdu.github.io/tech-blog/markdown/2021/01/04/intro.html</loc>
 <lastmod>2021-01-04T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://yvesdu.github.io/tech-blog/markdown/2021/02/24/sampling.html</loc>
 <lastmod>2021-02-24T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://yvesdu.github.io/tech-blog/2021/03/04/changes.html</loc>
-<lastmod>2021-03-04T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>https://yvesdu.github.io/tech-blog/about/</loc>
