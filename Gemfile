@@ -26,7 +26,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
 end
 
-gem "kramdown", ">= 2.3.1"
+gem "kramdown-math-katex"
 gem "jemoji"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
