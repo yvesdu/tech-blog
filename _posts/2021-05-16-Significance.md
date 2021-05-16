@@ -1,9 +1,9 @@
 ---
-toc: true
+toc: false
 layout: post
 description: Statistical significance post
 categories: [markdown]
-title: be aware of statistical significant claims
+title: Be aware of statistical significant claims
 ---
 
 ### Being aware of claims of statistical significance
@@ -14,11 +14,11 @@ Per wikipedia entry, statistical significance is defined as "a result has statis
 
 A few housekeeping/definition notes before proceeding: 
 
-A null hypothesis -- (in my own words, which might not be as accurate is) -- Some statement you think is the base fact of some situation i.e(obserbation), you can also define it as, observing no difference in a population characteristics or the data that is generated.. (still working on a clear definition). For example -- a coin is fair, meaning, over time, heads and tails will be 50%. 
+A null hypothesis -- (in my own words, which might not be as accurate) -- Some statement you think is the base fact of some situation i.e(obserbation). You can also define it as, observing no difference in a population characteristics or the data that is generated.. (still working on a clear definition). For example -- a coin is fair, meaning, over time, heads and tails will be 50%. 
 
 An alternative hypothesis -- suggests or proposes that, you could observe something different in the base fact of some situation. From the coin is fair example, if we were to observe something that would make us reject the null hypothesis -- and say that the coin is not fair.  
 
-Hypothesis testing -- is being having some method to reject or say (f..... you) to the null hypothesis within some confidence level i.e -- A lot of science use statistical significance to test confidence level. 
+Hypothesis testing -- is having some method to reject or say (f..... you) to the null hypothesis within some confidence level i.e -- A lot of science use statistical significance to test confidence level. 
 
 All this means, we gather data so that we can either learn nothing and maintain our "null hypothesis", or we observe something extreme(with some confidence level) to reject the null hypothesis. 
 
@@ -27,11 +27,11 @@ Let's revisit statistical significance.
 
 Saying a result is statistically significant, is asserting that-- Look, I have made these observations, I have a feeling if there was nothing going on but some random noise, then the chances are 1/20 or 5% you will see something as extreme or greater. 
 
-To put it simply is that, the chances that I am observing something interesting(that deviates from my null hypothesis) this extreme and its ALL noise(nonsense, or some shit i don't know) are so so small. 
+To put it simply, the chances that I am observing something interesting(that deviates from my null hypothesis) as EXTREME as this and its ALL noise(nonsense, or some shit i don't know) are so so small. 
 
-I hope did justice to my definition, I am still also still figuring this out, as I believe most people still are, especially my college professors. And people who claim statistical significance can lead you astray if you don't have some framework to reason about it. 
+I hope did this explenation, I am still also still figuring this out, as I believe most people still are and/or confused about the meaning of statisical significance, especially my college professors. And people who claim statistical significance can lead you astray if you don't have some framework to reason about it. 
 
-Now, there is a view that the idea of "statistical significance" to interpret some result might be wrong. Some of the arguments are about the techinicalities, that if nothing was going on (just observing some random noise), the chance of observing/finding something that is "statistically significant" can actually be much greater that 5%. 
+Now, there is a view that the idea of "statistical significance" to interpret some result might be wrong. Some of the arguments are about the techinicalities, that if nothing was going on (just observing some random noise), the chance of observing/finding something that is "statistically significant"(deviates from some null hypothesis) can actually be much greater that 5%.
 
 I will end the post here, because it is an ongoing discussion among a lot of researchers to figure out better ways to test hypothesis and to come up with better metrics. But I hope this stays as a reminder to always be on the look out of "statistally significant" claims, and how much it can be hard to interpret such results based on the idea of just "signigicance".
 
