@@ -1,12 +1,10 @@
 ---
-toc: false
+toc: true
 layout: post
 description: Statistical significance post
 categories: [markdown]
 title: Be aware of statistical significant claims
 ---
-
-### Being aware of claims of statistical significance
 
 This is a short post on a topic that has recently been malleating slowly in how I think about information, especially "scientific" or data driven results. 
 
