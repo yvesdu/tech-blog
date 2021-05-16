@@ -25,7 +25,7 @@ Let's revisit statistical significance.
 
 Saying a result is statistically significant, is asserting that-- Look, I am seeing a pattern in my observations, I have a feeling if there was nothing going on but some random noise, then the chances are less than 1/20 or 5% you will see such a pattern or something as extreme. 
 
-To put it simply, the chances that I am observing something interesting(that deviates from my null hypothesis) as EXTREME as this and its ALL noise(nonsense, or some shit i don't know) are so so small. 
+To put it simply, the chances that I am observing something interesting(that deviates from my null hypothesis) as EXTREME as this and its ALL noise(nonsense, or some shit I don't know) are so so small. 
 
 I hope I did justice to this explenation, I am still also still figuring this out, as I believe most people still are and/or confused about the meaning of statisical significance. And people who claim statistical significance can lead you astray if you don't have some framework to reason about it. 
 
