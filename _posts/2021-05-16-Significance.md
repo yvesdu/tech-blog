@@ -31,7 +31,7 @@ I hope I did justice to this explenation, I am still also still figuring this ou
 
 Now, there is a view that the idea of "statistical significance" to interpret some result might be wrong. Some of the arguments are about the techinicalities, that if nothing was going on (just observing some random noise), the chance of observing/finding something that is "statistically significant"(deviates from some null hypothesis) can actually be much greater that 5%.
 
-I will end the post here, because it is an ongoing discussion among a lot of researchers to figure out better ways to test hypothesis and to come up with better metrics. But I hope this stays as a reminder to always be on the look out of "statistally significant" claims, and how much it can be hard to interpret such results based on the idea of just "signigicance".
+I will end the post here, because it is an ongoing discussion among a lot of researchers to figure out better ways to test hypothesis and to come up with better metrics. But I hope this stays as a reminder to always be on the look out of "statistically significant" claims, and how much it can be hard to interpret such results based on the idea of just "significance".
 
 Sources: 
 
