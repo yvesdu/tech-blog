@@ -12,6 +12,8 @@ Per wikipedia entry, statistical significance is defined as "a result has statis
 
 A few housekeeping/definition notes before proceeding: 
 
+A simple example to start with -- "The legal principle of presumption of innocence, in which a supspect or defendant is assumed to be innocent (null hypothesis in not rejected) until proven guilty(null hypothesis is rejected) beyond a reasonable doubt(to a statistically significant degree)"
+
 A null hypothesis -- (in my own words, which might not be as accurate) -- Some statement you think is the base fact of some situation i.e(obserbation). You can also define it as, observing no difference in a population characteristics or the data that is generated.. (still working on a clear definition). For example -- a coin is fair, meaning, over time, heads and tails will be 50%. 
 
 An alternative hypothesis -- suggests or proposes that, you could observe something different in the base fact of some situation. From the coin is fair example, if we were to observe something that would make us reject the null hypothesis -- and say that the coin is not fair.  
